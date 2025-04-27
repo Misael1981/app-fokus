@@ -1,50 +1,29 @@
-# Welcome to your Expo app 👋
+# Aplicativo Fokus
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+<img src="./assets/images/app-fokus.PNG">
 
-## Get started
+Primeiro aplicativo desenvolvido durante a formação [React Native: Desenvolva seu primeiro app](https://cursos.alura.com.br/formacao-react-native-primeiro-app) da **Alura**.
 
-1. Install dependencies
+## Aprendizados:
 
-   ```bash
-   npm install
-   ```
+Iniciamos o projeto do zero, onde foi trabalhado:
 
-2. Start the app
+- A implementar funções de toggle para iniciar e pausar um timer usando useRef do React.
+- A utilizar setInterval e clearInterval para gerenciar a execução periódica de código.
+- A manipular e atualizar dinamicamente o texto de botões com base no estado do aplicativo.
+  As diferenças de comportamento entre useState e useRef no React.
+- A importância de usar uma biblioteca como React Native SVG para manipular SVGs no React Native.
+- A instalar bibliotecas no Expo usando npx expo install.
+- A ajustar dinamicamente ícones com base no estado do timer, melhorando a interatividade.
 
-   ```bash
-    npx expo start
-   ```
+## 🚀 Tecnologias
 
-In the output, you'll find options to open the app in a
+<img alt="React Native" height="100" width="90" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
-
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
-
-## Get a fresh project
-
-When you're ready, run:
-
-```bash
-npm run reset-project
-```
-
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
-
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+<h2> 📞 Contato</h2>
+<div> 
+  <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:misaelborges1981@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/misael-borges-5a5214181" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
+</div>
